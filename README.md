@@ -1,2 +1,2 @@
 # firepower
-customer snort rules
+a Collection of some custom snort rules
